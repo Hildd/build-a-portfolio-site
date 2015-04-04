@@ -1,0 +1,28 @@
+*{
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -ms-box-sizing: border-box;
+   box-sizing: border-box;
+}
+.title {
+   width: 90%;
+   height: 10%;
+   font-family: sans-serif;
+   font-weight: 200;
+   color: white;
+   padding-top: 10px;
+   padding-left: 10px;
+   background-color: #33bebe;
+}
+.body {
+    display:flex;
+   width:30%
+   height:50%;
+   margin-right:10px;
+} 
+.image_description {
+   margin-left:10px;
+   width: 55%;
+   heigth: 50%;
+   font-weight: 200;
+}
